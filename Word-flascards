@@ -1,0 +1,47 @@
+#!/usr/bin/env python
+#The line above because I will use this in a linux terminal, and without it, it goes bonkers
+
+#Version 0.1
+
+
+"""this is now going to be a python project, because that is what I am now learning.
+
+"""
+
+
+
+#The importer, it's job is to read the old file and convert it into a usable version for the program to then display
+void main()
+{
+	#//Find where the word definitons start
+	array human_file = readfile /home/jay/Void/work/Current/textfiles ;
+	array whole_definitions = [x,y]
+
+}
+
+#//The importer, it's job is to read the old file and convert it into a usable version for the program to then display
+void main()
+{
+	#//Find where the word definitons start
+	array human_file = readfile /home/jay/Void/work/Current/textfiles ;
+	array whole_definitions = [x,y]
+
+}
+
+#//The importer, it's job is to read the old file and convert it into a usable version for the program to then display
+void main()
+{
+	#//Find where the word definitons start
+	array human_file = readfile /home/jay/Void/work/Current/textfiles ;
+	array whole_definitions = [x,y]
+
+}
+
+#//The importer, it's job is to read the old file and convert it into a usable version for the program to then display
+void main()
+{
+	#//Find where the word definitons start
+	array human_file = readfile /home/jay/Void/work/Current/textfiles ;
+	array whole_definitions = [x,y]
+
+}
