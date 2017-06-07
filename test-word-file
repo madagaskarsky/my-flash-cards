@@ -1,1 +1,10 @@
-[] -
+--- Format ---
+
+[Language 1 / Language 2] Word: Meaning 1, sub meaning 1, sub meaning 2; Meaning 2, sub meaning 1; Meaning 3 {Special Notes} "Usage Example 1; Usage Example 2"
+
+var Language = [En,Es];
+
+
+=== Template ===
+
+[]  :  { } " "
